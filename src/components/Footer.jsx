@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>Shanilka Srimal</h3>
+            <h3>Sumali Dissanayake</h3>
             <p>
               Thank you for visiting my portfolio. I'm always excited to work on
               new projects and collaborate with amazing people. Let's build
@@ -54,7 +54,7 @@ const Footer = () => {
                 GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/sanilka-srimal-841b692b3/"
+                href="https://www.linkedin.com/in/sumali-dissanayake-b7749a1ba/"
                 className="social-link"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -62,12 +62,12 @@ const Footer = () => {
                 LinkedIn
               </a>
               <a
-                href="mailto:sanilkasrimal01@gmail.com"
+                href="mailto:dissanayake.sumali@gmail.com"
                 className="social-link"
               >
                 Email
               </a>
-              <a href="tel:+94712449676" className="social-link">
+              <a href="tel:+94760307440" className="social-link">
                 Call
               </a>
             </div>
@@ -76,7 +76,7 @@ const Footer = () => {
 
         <div className="footer-bottom">
           <div className="footer-copyright">
-            <p>&copy; {currentYear} Shanilka Srimal. All rights reserved.</p>
+            <p>&copy; {currentYear} Sumali Dissanayke. All rights reserved.</p>
           </div>
           <button className="back-to-top" onClick={scrollToTop}>
             ↑ Back to Top

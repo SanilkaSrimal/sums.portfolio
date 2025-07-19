@@ -85,26 +85,26 @@ const Contact = () => {
     {
       icon: "📧",
       title: "Email",
-      value: "sanilkasrimal01@gmail.com",
-      link: "mailto:sanilkasrimal01@gmail.com",
+      value: "dissanayake.sumali@gmail.com",
+      link: "mailto:dissanayake.sumali@gmail.com",
     },
     {
       icon: "📱",
       title: "Phone",
-      value: "+94 712 449 676",
-      link: "tel:+94712449676",
+      value: "+94 760 307 440",
+      link: "tel:+94760307440",
     },
     {
       icon: "📍",
       title: "Location",
-      value: ", Sri Lanka",
+      value: "Mount Lavinia, Sri Lanka",
       link: "#",
     },
     {
       icon: "💼",
       title: "LinkedIn",
       value: "LinkedIn Profile",
-      link: "https://www.linkedin.com/in/sanilka-srimal-841b692b3/",
+      link: "https://www.linkedin.com/in/sumali-dissanayake-b7749a1ba/",
     },
   ];
 
@@ -159,7 +159,7 @@ const Contact = () => {
                   GitHub
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/sanilka-srimal-841b692b3/"
+                  href="https://www.linkedin.com/in/sumali-dissanayake-b7749a1ba/"
                   className="social-link"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -167,12 +167,12 @@ const Contact = () => {
                   LinkedIn
                 </a>
                 <a
-                  href="mailto:sanilkasrimal01@gmail.com"
+                  href="mailto:dissanayake.sumali@gmail.com"
                   className="social-link"
                 >
                   Email
                 </a>
-                <a href="tel:+94712449676" className="social-link">
+                <a href="tel:+94760307440" className="social-link">
                   Call
                 </a>
               </div>
