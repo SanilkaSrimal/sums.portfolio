@@ -35,7 +35,7 @@ const LoadingScreen = ({ onComplete }) => {
       <div className="loading-content">
         <div className="logo-animation">
           <h1 className="loading-title">
-            <span className="gradient-text">Shanilka Srimal</span>
+            <span className="gradient-text">Sumali Dissnayake</span>
           </h1>
           <p className="loading-subtitle">Full Stack Developer</p>
         </div>
