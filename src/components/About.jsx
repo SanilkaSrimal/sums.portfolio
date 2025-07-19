@@ -42,7 +42,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text-full" ref={textRef}>
             <h3 className="about-title">
-              Hello! I'm Shanilka Srimal
+              Hello! I'm Sumali Dissanayake
             </h3>
 
             <div className="about-description">
